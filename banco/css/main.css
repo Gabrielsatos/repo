@@ -1,0 +1,53 @@
+.navbar-brand {
+    padding-left: 12px;
+    background-color: black;
+    border-radius: 50%;
+    width: 80px;
+}
+
+.nav-link {
+    width: 120px;
+}
+
+.sumario-tittle {
+    margin-top: 100px;
+    text-align: center;
+    font-size: 100px;
+}
+
+.sumario {
+    margin-left: 270px;
+    margin-top: relative;
+
+}
+
+.sumario-1 {
+    margin-left: 270px;
+    margin-top: relative;
+
+}
+
+.sumario-2 {
+    margin-left: 270px;
+    margin-top: relative;
+
+}
+
+.sumario-3 {
+    margin-left: 270px;
+    margin-top: relative;
+
+}
+
+.sumario-4 {
+    margin-left: 270px;
+    margin-top: relative;
+
+}
+
+.Botao {
+    position: absolute;
+    top: -10px;
+    left: 82%;
+
+}

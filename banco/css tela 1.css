@@ -1,0 +1,60 @@
+
+.conteudo{
+    width: 100%;
+background-color: #2c8bb4;
+height: 70px;
+
+}
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.logo{
+    position: absolute;
+    top: 20px;
+}
+.img1{
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+}
+.img2{
+    position: absolute;
+    left: 30%;
+}
+.img3{
+    position: absolute;
+    left: 1%;
+    bottom: 50%;
+}
+
+.botaocadastro{
+    position: absolute;
+    top: 20px;
+    left: 86%;
+}
+.informacao{
+    position: absolute;
+    top: 16px;
+    left: 76%;
+}
+.text1{
+    position: absolute;
+   top: 55%;
+   font-size: 50px;
+   text-align: center;
+   left: 8%;
+   font-style: italic;
+   font-weight: bolder;
+}
+.text2{
+    font-size: 32px;
+    position: absolute;
+    top: 80%;
+    left: 11%;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
